@@ -19,8 +19,3 @@
 - 403 Forbidden → Invalid token
 - 404 Not Found → Resource missing
 - 500 Internal Server Error → Server issue
-
-## Run Project
-
-```bash
-node server.js
